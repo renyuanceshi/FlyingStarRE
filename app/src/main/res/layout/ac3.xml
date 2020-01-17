@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="180.0dip" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:ads="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@id/img" android:clickable="true" android:layout_width="60.0dip" android:layout_height="60.0dip" android:layout_marginTop="5.0dip" android:src="@drawable/aa" android:contentDescription="@null" />
+        <TextView android:textSize="20.0sp" android:layout_gravity="center" android:id="@id/t" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Bazi" />
+        <ImageView android:id="@id/img5" android:clickable="true" android:layout_width="60.0dip" android:layout_height="60.0dip" android:layout_marginTop="5.0dip" android:src="@drawable/ano" android:contentDescription="@null" />
+        <TextView android:textSize="20.0sp" android:layout_gravity="center" android:id="@id/t5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="-5.0dip" android:text="Fly No Ads" />
+        <ImageView android:id="@id/img4" android:clickable="true" android:layout_width="60.0dip" android:layout_height="60.0dip" android:layout_marginTop="5.0dip" android:src="@drawable/qac" android:contentDescription="@null" />
+        <TextView android:textSize="20.0sp" android:layout_gravity="center" android:id="@id/t2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Fun Stories" />
+        <ImageView android:id="@id/img2" android:clickable="true" android:layout_width="60.0dip" android:layout_height="60.0dip" android:layout_marginTop="5.0dip" android:src="@drawable/a" android:contentDescription="@null" />
+        <TextView android:textSize="20.0sp" android:layout_gravity="center" android:id="@id/t3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip" android:text="Magic Square Rule" />
+    </LinearLayout>
+</ScrollView>

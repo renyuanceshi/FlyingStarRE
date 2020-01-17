@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="16.0sp" android:textColor="#ff0000ff" android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="House face" />
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:background="@drawable/amm" android:layout_width="wrap_content" android:layout_height="50.0dip">
+        <TextView android:textSize="20.0sp" android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <TextView android:textSize="32.0sp" android:textColor="#ff990012" android:gravity="center_horizontal" android:id="@id/po" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <ImageView android:id="@id/pointer" android:layout_width="280.0dip" android:layout_height="280.0dip" android:layout_marginTop="2.0dip" android:src="@drawable/vcc" android:contentDescription="@null" />
+    <TextView android:textSize="20.0sp" android:textColor="#ff990012" android:gravity="center_horizontal" android:id="@id/t0" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Degree Measure" />
+    <TextView android:textSize="14.0sp" android:gravity="center_horizontal" android:id="@id/tv" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="40.0dip" />
+</LinearLayout>
