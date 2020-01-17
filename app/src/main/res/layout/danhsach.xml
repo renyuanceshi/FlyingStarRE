@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout android:orientation="vertical" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="fill_parent"
   xmlns:android="http://schemas.android.com/apk/res/android">
-    <LinearLayout android:layout_gravity="center_horizontal" android:id="@id/bm" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_alignParentTop="true" android:layout_centerHorizontal="true">
+    <LinearLayout android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_alignParentTop="true" android:layout_centerHorizontal="true">
         <TextView android:textSize="17.0sp" android:textColor="#ff000080" android:layout_width="1.0dip" android:layout_height="20.0dip" />
-        <ListView android:textColor="#ff0000ff" android:id="@id/list" android:layout_width="328.0dip" android:layout_height="fill_parent" android:layout_marginBottom="45.0dip" android:divider="#ffff8f40" android:dividerHeight="1.0px" android:singleLine="true" android:lineSpacingExtra="-4.0dip" />
+        <ListView android:textColor="#ff0000ff" android:id="@+id/list" android:layout_width="328.0dip" android:layout_height="fill_parent" android:layout_marginBottom="45.0dip" android:divider="#ffff8f40" android:dividerHeight="1.0px" android:singleLine="true" android:lineSpacingExtra="-4.0dip" />
         <TextView android:textSize="17.0sp" android:textColor="#ff000080" android:layout_width="1.0dip" android:layout_height="20.0dip" />
     </LinearLayout>
-    <LinearLayout android:layout_gravity="center_horizontal" android:id="@id/btn_New" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="4.0dip" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true">
-        <Button android:textSize="15.0sp" android:textColor="#ff0000cd" android:id="@id/b1" android:background="@drawable/bu" android:layout_width="85.0dip" android:layout_height="40.0dip" android:text="Load chart" />
-        <Button android:textSize="15.0sp" android:textColor="#ff0000cd" android:id="@id/b2" android:background="@drawable/bu" android:layout_width="65.0dip" android:layout_height="40.0dip" android:layout_marginLeft="4.0dip" android:text="Change" />
-        <Button android:textSize="15.0sp" android:textColor="#ff0000cd" android:id="@id/b3" android:background="@drawable/bu" android:layout_width="65.0dip" android:layout_height="40.0dip" android:layout_marginLeft="4.0dip" android:text="Delete" />
-        <Button android:textSize="15.0sp" android:textColor="#ff0000cd" android:id="@id/b4" android:background="@drawable/bu" android:layout_width="60.0dip" android:layout_height="40.0dip" android:layout_marginLeft="4.0dip" android:text="Back" />
+    <LinearLayout android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="4.0dip" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true">
+        <Button android:textSize="15.0sp" android:textColor="#ff0000cd" android:id="@+id/b1" android:background="@drawable/bu" android:layout_width="85.0dip" android:layout_height="40.0dip" android:text="Load chart" />
+        <Button android:textSize="15.0sp" android:textColor="#ff0000cd" android:id="@+id/b2" android:background="@drawable/bu" android:layout_width="65.0dip" android:layout_height="40.0dip" android:layout_marginLeft="4.0dip" android:text="Change" />
+        <Button android:textSize="15.0sp" android:textColor="#ff0000cd" android:id="@+id/b3" android:background="@drawable/bu" android:layout_width="65.0dip" android:layout_height="40.0dip" android:layout_marginLeft="4.0dip" android:text="Delete" />
+        <Button android:textSize="15.0sp" android:textColor="#ff0000cd" android:id="@+id/b4" android:background="@drawable/bu" android:layout_width="60.0dip" android:layout_height="40.0dip" android:layout_marginLeft="4.0dip" android:text="Back" />
     </LinearLayout>
 </RelativeLayout>
