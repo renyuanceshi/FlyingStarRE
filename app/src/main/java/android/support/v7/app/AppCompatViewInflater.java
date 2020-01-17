@@ -7,7 +7,6 @@ import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.v4.util.ArrayMap;
 import android.support.v4.view.ViewCompat;
-import android.support.v7.appcompat.R;
 import android.support.v7.view.ContextThemeWrapper;
 import android.support.v7.widget.AppCompatAutoCompleteTextView;
 import android.support.v7.widget.AppCompatButton;

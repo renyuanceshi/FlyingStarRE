@@ -14,7 +14,6 @@ import android.os.Build;
 import android.support.v4.graphics.drawable.DrawableCompat;
 import android.support.v4.view.MotionEventCompat;
 import android.support.v4.view.ViewCompat;
-import android.support.v7.appcompat.R;
 import android.support.v7.text.AllCapsTransformationMethod;
 import android.text.Layout;
 import android.text.StaticLayout;

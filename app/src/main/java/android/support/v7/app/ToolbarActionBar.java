@@ -6,8 +6,6 @@ import android.content.res.Resources;
 import android.graphics.drawable.Drawable;
 import android.support.annotation.Nullable;
 import android.support.v4.view.ViewCompat;
-import android.support.v7.app.ActionBar;
-import android.support.v7.appcompat.R;
 import android.support.v7.view.WindowCallbackWrapper;
 import android.support.v7.view.menu.ListMenuPresenter;
 import android.support.v7.view.menu.MenuBuilder;

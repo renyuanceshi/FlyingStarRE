@@ -8,7 +8,6 @@ import android.os.Build;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.view.InputDeviceCompat;
 import android.support.v4.view.ViewCompat;
-import android.support.v7.appcompat.R;
 import android.util.AttributeSet;
 import android.view.View;
 import android.view.ViewGroup;

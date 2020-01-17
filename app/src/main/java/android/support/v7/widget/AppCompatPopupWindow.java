@@ -4,7 +4,6 @@ import android.annotation.TargetApi;
 import android.content.Context;
 import android.os.Build;
 import android.support.v4.widget.PopupWindowCompat;
-import android.support.v7.appcompat.R;
 import android.util.AttributeSet;
 import android.util.Log;
 import android.view.View;

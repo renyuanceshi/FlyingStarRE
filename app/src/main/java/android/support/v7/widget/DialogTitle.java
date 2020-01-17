@@ -2,7 +2,6 @@ package android.support.v7.widget;
 
 import android.content.Context;
 import android.content.res.TypedArray;
-import android.support.v7.appcompat.R;
 import android.text.Layout;
 import android.util.AttributeSet;
 import android.widget.TextView;

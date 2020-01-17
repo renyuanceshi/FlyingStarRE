@@ -3,8 +3,6 @@ package android.support.v7.view.menu;
 import android.content.Context;
 import android.content.res.TypedArray;
 import android.graphics.drawable.Drawable;
-import android.support.v7.appcompat.R;
-import android.support.v7.view.menu.MenuView;
 import android.util.AttributeSet;
 import android.view.LayoutInflater;
 import android.view.ViewGroup;

@@ -16,7 +16,6 @@ import android.support.v4.content.ContextCompat;
 import android.support.v4.graphics.ColorUtils;
 import android.support.v4.graphics.drawable.DrawableCompat;
 import android.support.v4.util.LruCache;
-import android.support.v7.appcompat.R;
 import android.util.Log;
 import android.util.SparseArray;
 import java.util.ArrayList;

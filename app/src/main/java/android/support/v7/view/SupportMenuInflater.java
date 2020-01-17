@@ -8,7 +8,6 @@ import android.content.res.XmlResourceParser;
 import android.support.v4.internal.view.SupportMenu;
 import android.support.v4.view.ActionProvider;
 import android.support.v4.view.MenuItemCompat;
-import android.support.v7.appcompat.R;
 import android.support.v7.view.menu.MenuItemImpl;
 import android.support.v7.view.menu.MenuItemWrapperICS;
 import android.util.AttributeSet;

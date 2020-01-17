@@ -14,7 +14,6 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.content.ContextCompat;
 import android.support.v4.widget.ResourceCursorAdapter;
-import android.support.v7.appcompat.R;
 import android.text.SpannableString;
 import android.text.TextUtils;
 import android.text.style.TextAppearanceSpan;

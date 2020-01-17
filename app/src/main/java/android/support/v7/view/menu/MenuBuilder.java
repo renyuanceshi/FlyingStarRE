@@ -13,7 +13,6 @@ import android.support.v4.content.ContextCompat;
 import android.support.v4.internal.view.SupportMenu;
 import android.support.v4.view.ActionProvider;
 import android.support.v4.view.MenuItemCompat;
-import android.support.v7.appcompat.R;
 import android.util.SparseArray;
 import android.view.ContextMenu;
 import android.view.KeyCharacterMap;

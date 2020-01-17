@@ -6,8 +6,6 @@ import android.content.pm.PackageManager;
 import android.content.pm.ResolveInfo;
 import android.os.Build;
 import android.support.v4.view.ActionProvider;
-import android.support.v7.appcompat.R;
-import android.support.v7.widget.ActivityChooserModel;
 import android.util.TypedValue;
 import android.view.MenuItem;
 import android.view.SubMenu;

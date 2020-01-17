@@ -4,7 +4,6 @@ import android.content.Context;
 import android.graphics.drawable.Drawable;
 import android.os.Build;
 import android.support.v4.view.ViewPropertyAnimatorCompat;
-import android.support.v7.appcompat.R;
 import android.support.v7.view.ActionMode;
 import android.support.v7.view.menu.MenuBuilder;
 import android.text.TextUtils;

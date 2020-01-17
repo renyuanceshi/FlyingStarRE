@@ -11,7 +11,6 @@ import android.os.Message;
 import android.support.annotation.Nullable;
 import android.support.v4.view.ViewCompat;
 import android.support.v4.widget.NestedScrollView;
-import android.support.v7.appcompat.R;
 import android.text.TextUtils;
 import android.util.AttributeSet;
 import android.util.TypedValue;

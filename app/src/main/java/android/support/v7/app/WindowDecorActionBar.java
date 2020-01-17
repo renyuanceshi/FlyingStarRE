@@ -14,8 +14,6 @@ import android.support.v4.view.ViewPropertyAnimatorCompat;
 import android.support.v4.view.ViewPropertyAnimatorListener;
 import android.support.v4.view.ViewPropertyAnimatorListenerAdapter;
 import android.support.v4.view.ViewPropertyAnimatorUpdateListener;
-import android.support.v7.app.ActionBar;
-import android.support.v7.appcompat.R;
 import android.support.v7.view.ActionBarPolicy;
 import android.support.v7.view.ActionMode;
 import android.support.v7.view.SupportMenuInflater;

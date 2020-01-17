@@ -5,7 +5,6 @@ import android.content.res.TypedArray;
 import android.graphics.PorterDuff;
 import android.graphics.drawable.Drawable;
 import android.support.v4.view.ViewCompat;
-import android.support.v7.appcompat.R;
 import android.support.v7.graphics.drawable.DrawableUtils;
 import android.util.AttributeSet;
 import android.view.View;

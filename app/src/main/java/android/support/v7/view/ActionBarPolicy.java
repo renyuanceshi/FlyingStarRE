@@ -5,7 +5,6 @@ import android.content.res.Resources;
 import android.content.res.TypedArray;
 import android.os.Build;
 import android.support.v4.view.ViewConfigurationCompat;
-import android.support.v7.appcompat.R;
 import android.util.AttributeSet;
 import android.view.ViewConfiguration;
 

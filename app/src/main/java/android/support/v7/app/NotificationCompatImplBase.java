@@ -8,7 +8,6 @@ import android.os.Build;
 import android.os.SystemClock;
 import android.support.v4.app.NotificationBuilderWithBuilderAccessor;
 import android.support.v4.app.NotificationCompatBase;
-import android.support.v7.appcompat.R;
 import android.widget.RemoteViews;
 import java.text.NumberFormat;
 import java.util.List;

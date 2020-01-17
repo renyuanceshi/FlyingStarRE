@@ -3,8 +3,6 @@ package android.support.v7.view.menu;
 import android.content.DialogInterface;
 import android.os.IBinder;
 import android.support.v7.app.AlertDialog;
-import android.support.v7.appcompat.R;
-import android.support.v7.view.menu.MenuPresenter;
 import android.view.KeyEvent;
 import android.view.View;
 import android.view.Window;

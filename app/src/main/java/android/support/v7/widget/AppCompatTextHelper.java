@@ -5,7 +5,6 @@ import android.content.res.ColorStateList;
 import android.content.res.TypedArray;
 import android.graphics.drawable.Drawable;
 import android.os.Build;
-import android.support.v7.appcompat.R;
 import android.support.v7.text.AllCapsTransformationMethod;
 import android.util.AttributeSet;
 import android.widget.TextView;

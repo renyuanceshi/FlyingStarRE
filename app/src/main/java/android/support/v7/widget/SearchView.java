@@ -17,7 +17,6 @@ import android.os.Bundle;
 import android.os.ResultReceiver;
 import android.support.v4.view.KeyEventCompat;
 import android.support.v4.widget.CursorAdapter;
-import android.support.v7.appcompat.R;
 import android.support.v7.view.CollapsibleActionView;
 import android.text.Editable;
 import android.text.SpannableStringBuilder;

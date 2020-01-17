@@ -3,7 +3,6 @@ package android.support.v7.widget;
 import android.content.Context;
 import android.content.res.TypedArray;
 import android.support.v4.view.ViewCompat;
-import android.support.v7.appcompat.R;
 import android.util.AttributeSet;
 import android.view.View;
 import android.widget.LinearLayout;

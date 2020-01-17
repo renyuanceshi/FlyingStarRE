@@ -6,8 +6,6 @@ import android.database.Cursor;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.os.Message;
-import android.support.v7.app.AlertController;
-import android.support.v7.appcompat.R;
 import android.util.TypedValue;
 import android.view.ContextThemeWrapper;
 import android.view.KeyEvent;

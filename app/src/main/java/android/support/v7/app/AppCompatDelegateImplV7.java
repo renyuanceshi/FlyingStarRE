@@ -27,7 +27,6 @@ import android.support.v4.view.ViewPropertyAnimatorListener;
 import android.support.v4.view.ViewPropertyAnimatorListenerAdapter;
 import android.support.v4.view.WindowInsetsCompat;
 import android.support.v4.widget.PopupWindowCompat;
-import android.support.v7.appcompat.R;
 import android.support.v7.view.ActionMode;
 import android.support.v7.view.ContextThemeWrapper;
 import android.support.v7.view.StandaloneActionMode;

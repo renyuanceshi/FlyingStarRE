@@ -8,7 +8,6 @@ import android.support.annotation.DrawableRes;
 import android.support.annotation.Nullable;
 import android.support.v4.content.ContextCompat;
 import android.support.v4.widget.TintableCompoundButton;
-import android.support.v7.appcompat.R;
 import android.util.AttributeSet;
 import android.widget.RadioButton;
 
